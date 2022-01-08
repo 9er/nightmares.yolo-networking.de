@@ -354,7 +354,7 @@ a strong {
   color: currentColor;
 }
 a:hover {
-  color: #121212;
+  color: #cc97e5;
 }
 
 code {
@@ -490,18 +490,18 @@ a.box:active {
 }
 .button:hover, .button.is-hovered {
   border-color: #b5b5b5;
-  color: #121212;
+  color: #cc97e5;
 }
 .button:focus, .button.is-focused {
   border-color: #485fc7;
-  color: #121212;
+  color: #cc97e5;
 }
 .button:focus:not(:active), .button.is-focused:not(:active) {
   box-shadow: 0 0 0 0.125em rgba(160, 27, 222, 0.25);
 }
 .button:active, .button.is-active {
   border-color: #212121;
-  color: #121212;
+  color: #cc97e5;
 }
 .button.is-text {
   background-color: transparent;
@@ -3729,7 +3729,7 @@ a.tag:hover {
   padding: 0 0.75em;
 }
 .breadcrumb a:hover {
-  color: #121212;
+  color: #cc97e5;
 }
 .breadcrumb li {
   align-items: center;
@@ -5489,7 +5489,7 @@ body.has-spaced-navbar-fixed-bottom {
 .pagination-next:hover,
 .pagination-link:hover {
   border-color: #b5b5b5;
-  color: #121212;
+  color: #cc97e5;
 }
 .pagination-previous:focus,
 .pagination-next:focus,
@@ -5739,7 +5739,7 @@ body.has-spaced-navbar-fixed-bottom {
 }
 .panel-tabs a.is-active {
   border-bottom-color: #212121;
-  color: #121212;
+  color: #cc97e5;
 }
 
 .panel-list a {
@@ -5769,7 +5769,7 @@ body.has-spaced-navbar-fixed-bottom {
 }
 .panel-block.is-active {
   border-left-color: #A01BDE;
-  color: #121212;
+  color: #cc97e5;
 }
 .panel-block.is-active .panel-icon {
   color: #A01BDE;
